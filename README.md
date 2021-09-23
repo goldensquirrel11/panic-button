@@ -14,7 +14,7 @@ used to create panic button. Arduino program code is located in the .ino file
 
 #### Schematic
 
-![arduino shematic](README_resources\Schematic Diagram.png)
+![arduino shematic](https://github.com/goldensquirrel11/panic-button/blob/main/README_resources/Schematic%20Diagram.png "arduino schematic")
 
 ### Python
 
