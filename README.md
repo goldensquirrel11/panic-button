@@ -1,6 +1,6 @@
 # Panic button
 
-A panic button demo for business management Trim. 1 project
+A panic button demo for business management project
 
 ## Overview
 
